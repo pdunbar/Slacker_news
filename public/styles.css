@@ -20,6 +20,11 @@ span {
   font-size: 1.5em;
 }
 
+.form span {
+  color: red;
+  font-size: .8em;
+}
+
 ol li p {
   color: gray;
   font-size: .75em;
@@ -113,7 +118,7 @@ ol li a {
 
 
 .form {
-  width: 150px;
+  width: 200px;
 }
 
 
